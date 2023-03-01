@@ -1,5 +1,5 @@
-abstract class InternetEvent {}
+// abstract class InternetEvent {}
 
-class InterentLostEvent extends InternetEvent {}
+// class InterentLostEvent extends InternetEvent {}
 
-class InterentGainedEvent extends InternetEvent {}
+// class InterentGainedEvent extends InternetEvent {}
